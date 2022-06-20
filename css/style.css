@@ -1,0 +1,17 @@
+.ocultar{
+    display:none;
+}
+
+.swal2-styled.swal2-default-outline:focus {
+    box-shadow: 0 0 0 3px rgba(71, 71, 71, 0.5);
+}
+
+#tipo-cambio{
+    width: fit-content;
+    padding-left: 0.5rem !important;
+    padding-right: 2rem !important;
+}
+
+.--bs-border-opacity{
+    opacity: 10%;
+}
